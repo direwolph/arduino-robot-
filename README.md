@@ -5,7 +5,7 @@ A really fun project for our 4th ingenering school year, an automous robot doing
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/juliusherve/arduino-robot.git
    ```
 2. Follow the wiring/building scheme (in progress ...)
 3. Upload main.ino to the arduino Due
